@@ -1,4 +1,4 @@
-# test_globalis
+# test
 
 La fonction foo vérifie pour chaque chiffre si il entre dans l'interval des deux chiffres précédent, si oui le chiffre est supprimé, sinon il reste.
 Si il reste un chiffre seul et qu'il est superieur au chiffre le plus élevé de l'interval précédent, le chiffre seul va venir remplacer ce dernier.
